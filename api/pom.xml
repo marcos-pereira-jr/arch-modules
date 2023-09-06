@@ -26,7 +26,7 @@
 
         <dependency>
             <groupId>com.acner</groupId>
-            <artifactId>client-local</artifactId>
+            <artifactId>client</artifactId>
             <version>1.0.0</version>
         </dependency>
 
