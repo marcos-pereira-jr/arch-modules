@@ -6,6 +6,6 @@ The objective of this architecture is to simplify the consumption of APIs from o
 This is a simple example, but it's enough to start a new project from scratch.
 
 <p align="center">
-<img src="C:\Users\marco\IdeaProjects\arch-modules\docs\diagram.jpg" width="197" height="666"/>
+<img src=".\docs\diagram.jpg" width="197" height="666"/>
 </p>
 
